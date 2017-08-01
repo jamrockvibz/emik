@@ -1,0 +1,9 @@
+{
+  "name": "emik",
+  "version": "1.0.0",
+  "description": "Full power emizzer",
+  "main": "index.js",
+  "repository": "git@github.com:jamrockvibz/emik.git",
+  "author": "Erdal Çay",
+  "license": "MIT"
+}
