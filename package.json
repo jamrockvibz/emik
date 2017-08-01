@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:jamrockvibz/emik.git",
   "author": "Erdal Çay",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
 }
